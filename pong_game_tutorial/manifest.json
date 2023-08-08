@@ -1,0 +1,10 @@
+{
+  "name": "Pong Game",
+  "short_name": "Pong Game",
+  "theme_color": "#161718",
+  "background_color": "#161718",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/"
+}
